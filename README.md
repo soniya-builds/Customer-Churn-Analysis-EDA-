@@ -98,5 +98,4 @@ Based on the analysis, the following strategies can help reduce churn:
 ## Author
 This analysis was created as part of a customer churn analysis project.
 
----
 **Last Updated**: January 2, 2026
